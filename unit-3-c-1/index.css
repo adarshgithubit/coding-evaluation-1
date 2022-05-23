@@ -1,0 +1,12 @@
+#container {
+    /* border: 1px solid red; */
+    width: 25%;
+    height: 350px;
+    margin: auto;
+    padding: 40px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+#show_products {
+ margin: auto;
+}
